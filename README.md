@@ -52,7 +52,7 @@ The energy bar is shown at the bottom-right of the screen.
 ## 成就 / Advancement
 
 - **控制，收容，保护** —— 在一次电炮重蓄攻击（重攻击光束期间）连续击杀至少 3 只监守者。
-- **Control. Contain. Protect.** —— Kill at least 3 Wardens during a single heavy H.I.D beam.
+- **Secure. Contain. Protect.** —— Kill at least 3 Wardens during a single heavy H.I.D beam.
 
 ---
 
@@ -64,4 +64,4 @@ This mod is released under the MIT License.
 武器模型、音效与视觉效果经授权引用自 SCP:SL 相关资源。
 Weapon model, sounds and visual effects are used with authorization from SCP:SL-related resources.
 
-作者 / Author: CyberQuQu Dev
+作者 / Author: NTF_
